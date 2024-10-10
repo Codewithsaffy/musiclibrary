@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
-import { Fira_Mono } from "next/font/google";
+import { Poppins as Fira_Mono } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 const inter = Fira_Mono({
-  subsets:["latin"],
-  display:"swap",
-  variable:"--font-fira",
-  weight:["400", "500", "700"]
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-fira",
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
 });
 
 export const metadata: Metadata = {
@@ -22,7 +22,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en"  className="dark">
+    <html lang="en" className="dark">
       <body className={inter.className}>
         <div className="relative flex justify-center items-center">
           <Navbar />
