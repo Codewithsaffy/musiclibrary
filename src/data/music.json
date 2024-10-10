@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Guitar",
+      "slug": "introduction-to-guitar",
+      "description": "Learn the basics of playing the guitar, including chords, strumming, and simple songs.",
+      "price": 29.99,
+      "instructor": "Alex Turner",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1508216310977-b2cd09a3a83c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your piano journey with basic techniques, scales, and beginner songs.",
+      "price": 34.99,
+      "instructor": "Emily Davis",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1513883049090-d0b7439799bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 3,
+      "title": "Music Theory 101",
+      "slug": "music-theory-101",
+      "description": "Understand the fundamentals of music theory, including notation, scales, and chords.",
+      "price": 24.99,
+      "instructor": "John Smith",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1544744139-88fa2a0fa277?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 4,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Enhance your guitar skills with advanced techniques like fingerpicking and soloing.",
+      "price": 39.99,
+      "instructor": "James Brown",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1521811514534-8553fa8df4de?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 5,
+      "title": "Jazz Piano Improvisation",
+      "slug": "jazz-piano-improvisation",
+      "description": "Learn to improvise and play jazz piano with confidence.",
+      "price": 49.99,
+      "instructor": "Sarah Lee",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1588527817757-2b96b66c2e4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 6,
+      "title": "Introduction to Singing",
+      "slug": "introduction-to-singing",
+      "description": "Learn the basics of singing, including breath control, pitch, and tone.",
+      "price": 19.99,
+      "instructor": "Michael Johnson",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 7,
+      "title": "Drum Set Basics",
+      "slug": "drum-set-basics",
+      "description": "Start playing the drums with basic rhythms, techniques, and songs.",
+      "price": 29.99,
+      "instructor": "Chris Evans",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1580758062934-9c9ddf96a3bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Learn to create electronic music with software like Ableton Live and FL Studio.",
+      "price": 59.99,
+      "instructor": "David Wilson",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1532619675605-1d8650e5f29f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 9,
+      "title": "Songwriting Techniques",
+      "slug": "songwriting-techniques",
+      "description": "Discover techniques for writing lyrics and composing melodies.",
+      "price": 44.99,
+      "instructor": "Laura White",
+      "isFeatured": false,
+      "image": "https://images.unsplash.com/photo-1587758570653-76b74d3e8c00?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 10,
+      "title": "Classical Violin Mastery",
+      "slug": "classical-violin-mastery",
+      "description": "Master the violin with techniques and pieces from the classical repertoire.",
+      "price": 69.99,
+      "instructor": "Sophia Martinez",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    }
+  ]
+}
